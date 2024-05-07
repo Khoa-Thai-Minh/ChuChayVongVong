@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\ASUS\source\repos\DVD chạy vòng vòng\DVD chạy vòng vòng\Main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ASUS\source\repos\DVD chạy vòng vòng\DVD chạy vòng vòng\lib.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ASUS\source\repos\DVD chạy vòng vòng\DVD chạy vòng vòng\lib.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  (compiling source file 'Main.cpp')
+  
+  DVD chạy vòng vòng.vcxproj -> C:\Users\ASUS\source\repos\DVD chạy vòng vòng\x64\Debug\DVD chạy vòng vòng.exe
