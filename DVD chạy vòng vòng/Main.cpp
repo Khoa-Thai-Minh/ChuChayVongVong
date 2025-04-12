@@ -12,7 +12,7 @@ int main() {
 		gotoXY(x, y);
 		SetColor(i);
 		cout << "I HATE LAP TRINH";
-
+		//hello
 		
 
 		if (_kbhit()) {
