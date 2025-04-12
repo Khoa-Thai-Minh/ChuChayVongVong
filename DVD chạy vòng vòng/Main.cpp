@@ -13,7 +13,7 @@ int main() {
 		SetColor(i);
 		cout << "I HATE LAP TRINH";
 		//hello
-		
+		//hello again
 
 		if (_kbhit()) {
 			char kitu = _getch();
